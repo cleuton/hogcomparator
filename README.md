@@ -1,5 +1,7 @@
 Comparação de rostos com Java e C++ utilizando HOG
 
+[![](./banner_livros2.png)](https://www.lcm.com.br/site/#livros/busca?term=cleuton)
+
 HOG - Histogram of Oriented Gradients (histograma de gradientes orientados) é um descritor de imagens, capaz de resumir as principais características de uma imagem, como rostos por exemplo, permitindo comparação com imagens semelhantes.
 
 Este artigo e tutorial é de dois anos atrás e eu resolvi atualizar e modernizar o código-fonte para publicar novamente.
